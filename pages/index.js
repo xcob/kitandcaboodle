@@ -31,7 +31,7 @@ function HomePage() {
                     </p>
                     <p>
                         Interested in custom party decorating?<br />
-                        <a href="mailto:kennedy@kitandcaboodle.com"><strong>Let's Chat!</strong></a>
+                        <a href="mailto:kennedy@kitandcaboodle.co"><strong>Let's Chat!</strong></a>
                     </p>
                     <br />
                     <p>
